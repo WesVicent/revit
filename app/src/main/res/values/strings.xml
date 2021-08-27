@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Revit</string>
+    <string name="pulso">Pulso</string>
+    <string name="pescoco">Pescoço</string>
+    <string name="lombar">Lombar</string>
+    <string name="triceps">Triceps</string>
+    <string name="pernas">Pernas</string>
 </resources>
