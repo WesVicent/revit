@@ -3,8 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_home.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/fragment_alongamento.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/conta/Desktop/Pastas/Soften/estudos/Revit/app/src/main/res/drawable/contract_vert_button_left_shape.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/conta/Desktop/Pastas/Soften/estudos/Revit/app/src/main/res/drawable/contract_vert_button_right_shape.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/conta/Desktop/Pastas/Soften/estudos/Revit/app/src/main/res/drawable/expand_vert_button_left_shape.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/conta/Desktop/Pastas/Soften/estudos/Revit/app/src/main/res/drawable/expand_vert_button_right_shape.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/conta/Desktop/Pastas/Soften/estudos/Revit/app/src/main/res/drawable/vertical_button_left_shape.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/conta/Desktop/Pastas/Soften/estudos/Revit/app/src/main/res/layout/activity_main.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/conta/Desktop/Pastas/Soften/estudos/Revit/app/src/main/res/layout/fragment_main.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/conta/Desktop/Pastas/Soften/estudos/Revit/app/src/main/res/layout/fragment_menu_direita_content.xml" value="0.5" />
+        <entry key="..\:/Users/conta/Desktop/Pastas/Soften/estudos/Revit/app/src/main/res/layout/fragment_menu_esquerda_content.xml" value="0.15534420289855072" />
+        <entry key="..\:/Users/conta/Desktop/Pastas/Soften/estudos/Revit/app/src/main/res/layout/fragment_test.xml" value="0.18" />
+        <entry key="..\:/Users/conta/Desktop/Revit/app/src/main/res/drawable/button_left_shape.xml" value="0.215625" />
+        <entry key="..\:/Users/conta/Desktop/Revit/app/src/main/res/drawable/vertical_button_right_shape.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/conta/Desktop/Revit/app/src/main/res/layout-v21/activity_main.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/conta/Desktop/Revit/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/conta/Desktop/Revit/app/src/main/res/layout/fragment_test.xml" value="0.19947916666666668" />
       </map>
     </option>
   </component>

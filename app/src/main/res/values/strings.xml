@@ -1,10 +1,7 @@
 <resources>
     <string name="app_name">Revit</string>
-    <string name="pulso">Pulso</string>
-    <string name="pescoco">Pescoço</string>
-    <string name="lombar">Lombar</string>
-    <string name="triceps">Triceps</string>
-    <string name="pernas">Pernas</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="arrow"><![CDATA[<]]></string>
+    <string name="valores">valores</string>
 </resources>
