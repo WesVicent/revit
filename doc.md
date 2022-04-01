@@ -5,6 +5,19 @@
 ## Telas:
 
 <details>
+<summary> Dados Pessoais </summary>
+
+O app deve apresentar uma tela para que o usuario possa inserir seus dados. Para que consiga dar inicio aos alongamentos.
+
+O app deve apresentar um campo obrigatório "Me identifico como:" do tipo Select, com as opções "Feminino" e "Masculino", que **ao selecionar** define uma identificação de gênero.
+
+O app deve apresentar um campo obrigatório "Peso" do tipo Edit número decimal com a seguinte máscara (###,##), o campo deve aceitar somente valores acima de 0 e abaixo de 300.00.
+
+O app deve apresentar um Button "Continuar" que só ficará selecionável quando o usuario preencher os campos acima. **Ao tocar**, segue para a *Tela-Principal*.
+
+</details>
+
+<details>
 <summary> 1. Principal </summary>
 
 Essa tela servirá como "ancora" do app, portanto, o app deve sempre abrir nessa tela após o usuário já ter inserido os dados pessoais.
@@ -46,3 +59,14 @@ O app deve apresentar a barra de progresso da hidratação em uma uma seção se
 Detalhes
 
 </details>
+
+<details>
+<summary> Configurações </summary>
+
+O app deve apresentar uma "tela" (um popup) para que o usuário faça alterações em seus dados pessoais.
+
+O app deve apresentar um campo "Me identifico como:" do tipo Select, com as opções "Feminino" e "Masculino", que **ao selecionar** altera a identificação de gênero.
+
+O app deve apresentar um campo "Peso" do tipo Edit número decimal com a seguinte máscara (###,##), o campo deve aceitar somente valores acima de 0 e abaixo de 300.00.
+
+O app deve conter um Button "X" que **ao tocar** salva as alterarações e fecha o popup de configurações.
