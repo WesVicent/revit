@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/contract_vert_button_left_shape"
-    tools:context=".view.fragment.MenuEsquerdaContentFragment">
+    tools:context=".views.fragments.MenuEsquerdaContentFragment">
 
     <LinearLayout
         android:id="@+id/container"

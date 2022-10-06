@@ -1,4 +1,4 @@
-package com.study.wes.revit.view.fragment
+package com.study.wes.revit.views.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

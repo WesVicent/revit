@@ -1,4 +1,4 @@
-package com.study.wes.revit.model.interfaces
+package com.study.wes.revit.models.interfaces
 
 /** Created by Wes Vicent 09/01/2022*/
 

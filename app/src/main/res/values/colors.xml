@@ -10,4 +10,7 @@
 
     <color name="card_bg">#E9E9E9</color>
     <color name="strokes">#bbbbbb</color>
+
+    <color name="primary">#FF3700B3</color>
+    <color name="secondary">#FF6200EE</color>
 </resources>

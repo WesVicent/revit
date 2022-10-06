@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <style name="DecreaseBar">
+        <item name="defaultProgress">@style/revit_style_decrease</item>
+    </style>
+
+    <style name="revit_style_decrease">
+    </style>
+
     <style name="ButtonVertical" parent="Widget.AppCompat.Button">
         <item name="android:layout_width">30dp</item>
         <item name="android:layout_height">match_parent</item>

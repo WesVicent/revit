@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="outer_margin" type="dimen">25dp</item>
+    <item name="inner_margin" type="dimen">15dp</item>
+    <item name="widget_size" type="dimen">75dp</item>
+    <item name="bar_size" type="dimen">30dp</item>
+</resources>

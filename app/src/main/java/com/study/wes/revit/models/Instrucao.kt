@@ -1,4 +1,4 @@
-package com.study.wes.revit.model
+package com.study.wes.revit.models
 
 /** Created by Wes Vicent 09/01/2022*/
 
