@@ -8,25 +8,13 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.commit
 import com.study.wes.revit.R
 import com.study.wes.revit.databinding.FragmentMainBinding
-import com.study.wes.revit.views.components.DecreaseBar
-
 
 lateinit var mainFragBinding : FragmentMainBinding
 
 class MainFragment : Fragment() {
 
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-    }
-
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View {
         mainFragBinding = FragmentMainBinding.inflate(inflater, container, false)
-
-
-
-        val v = DecreaseBar(requireContext())
-
-        mainFragBinding.mainFragmentContainer.addView(v)
 
         mainFragBinding.btnEsquerda.setOnClickListener {
             parentFragmentManager.commit {
